@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Jian. I’m currently learning Javascript.
